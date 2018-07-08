@@ -49,6 +49,7 @@
 						<a href="https://www.youtube.com/watch?v=5dPt-m7OCUU&list=UUoAhmr6z-71AJRiWD-NMoYA"><i class="fa fa-youtube fa-2x"></i></a>
 						<a href="https://www.linkedin.com/in/cristina-ribeiro-843237b/"><i class="fa fa-linkedin fa-2x"></i></a>
 						<a href="https://uwaterloo.academia.edu/CRibeiro"><i class="fa fa-university fa-2x"></i></a>
+						<a href="https://github.com/drcribeiro"><i class="fa fa-github-alt fa-2x"></i></a>
 					</div>
 				</div>
 			</div>
@@ -136,7 +137,7 @@
 
 
 			<div class="row work-row"> <!-- odd -->
-				<div class="small-12 medium-6 medium-push-6 columns"> 
+				<div class="small-12 medium-6 medium-push-6 columns">
 					<!-- change medium-7 to change size, medium-push-6 puts the image in the left column -->
 					<img src="assets/images/Canine_Pose_Estimation - Cristina Ribeiro.jpg" alt="">
 				</div>
@@ -217,7 +218,7 @@ Developed a niche search engine to perform sentence-level fact-based information
 		</section>
 
 		<section id="footer-cta">
-			<h2 class="text-center">Wanna work with me?</h2>
+			<h2 class="text-center">Want to work with me?</h2>
 			<p></p>
 			<div class="row text-center">
 				<div class="small-12 medium-8 medium-offset-2 columns">
